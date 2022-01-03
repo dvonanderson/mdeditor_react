@@ -1,7 +1,19 @@
 {
   "name": "mdeditor_react",
-  "version": "0.1.0",
+  "version": "0.1.0-dev",
   "private": true,
+  "description": "A web application for authoring and editing metadata.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dvonanderson/mdeditor_react.git"
+  },
+  "homepage": "https://github.com/dvonanderson/mdeditor_react",
+  "bugs": {
+    "url": "https://github.com/dvonanderson/mdeditor_react/issues"
+  },
+  "engines": {
+    "node": "12.* || 14.* || >= 16"
+  },
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^12.0.0",
